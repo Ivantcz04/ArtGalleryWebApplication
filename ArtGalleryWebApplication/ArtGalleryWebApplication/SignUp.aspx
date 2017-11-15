@@ -10,6 +10,8 @@
     <form id="form1" runat="server">
         <div>
             <asp:CheckBox ID="CheckBox1" runat="server" />
+            <asp:CheckBoxList ID="CheckBoxList1" runat="server">
+            </asp:CheckBoxList>
         </div>
     </form>
 </body>
